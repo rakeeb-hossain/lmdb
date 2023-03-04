@@ -1,0 +1,4 @@
+[submodule "db_bench"]
+	path = db_bench
+	url = git@github.com:rakeeb-hossain/leveldb.git
+	branch = lmdb-bench
